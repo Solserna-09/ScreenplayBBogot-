@@ -1,0 +1,14 @@
+
+g	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8à¤ï˜´1
+g
+java:S1192#"JDefine a constant instead of duplicating this literal "Data.xlsx" 8 times.(Â³³8á¤ï˜´1
+c
+java:S1192#"FDefine a constant instead of duplicating this literal "Vuelo" 8 times.(Â³³8á¤ï˜´1
+k
+java:S1128"IRemove this unused import 'com.demo.guru99.interactions.EsperaImplicita'.(†½›Äùÿÿÿÿ8ÌÊï˜´1
+`
+java:S1128">Remove this unused import 'net.serenitybdd.screenplay.Action'.(èÌÌğøÿÿÿÿ8ÌÊï˜´1
+z
+java:S1128	"XRemove this unused import 'net.serenitybdd.screenplay.matchers.WebElementStateMatchers'.(è‘®‹üÿÿÿÿ8ÌÊï˜´1
+Q
+java:S1128"4Remove this unused import 'java.awt.event.KeyEvent'.(¬ğİÍ8ÌÊï˜´1
